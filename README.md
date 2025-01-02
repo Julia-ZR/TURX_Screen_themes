@@ -1,5 +1,4 @@
-# TURX_Screen_themes
-Themes for the Turing Smart Screen (turzx.com) created by myself 
-I used CorelDraw app
-Link: https://www.coreldraw.com/
-The files are in .data format, so they are compatible with the Turzx application.
+#TURX_Screen_themes <br />
+Themes for the Turing Smart Screen (turzx.com) created by myself <br />
+I used CorelDraw app https://www.coreldraw.com/  <br />
+The files are in .data format, so they are compatible with the Turzx application. <br />
